@@ -1,0 +1,1 @@
+/usr/bin/gcc   --static  test1.o test2.o test3.o -o mytest_st 

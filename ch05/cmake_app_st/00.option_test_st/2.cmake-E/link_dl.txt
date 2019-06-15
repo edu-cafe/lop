@@ -1,0 +1,1 @@
+/usr/bin/gcc   -rdynamic test1.o test2.o test3.o -o mytest_dl
