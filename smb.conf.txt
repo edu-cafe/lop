@@ -1,0 +1,11 @@
+[linux]
+comment=Ubuntu Linux Share
+path=/home/linux
+available=yes
+valid users=linux
+browseable=yes
+writeable=yes
+create mask=0644
+directory mask=0755
+public=yes
+
